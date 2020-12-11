@@ -1,0 +1,13 @@
+E:\Development\GitHub\reflection-csharp\Reflection.App\Reflection.App\bin\Debug\netcoreapp3.1\Reflection.App.exe
+E:\Development\GitHub\reflection-csharp\Reflection.App\Reflection.App\bin\Debug\netcoreapp3.1\Reflection.App.deps.json
+E:\Development\GitHub\reflection-csharp\Reflection.App\Reflection.App\bin\Debug\netcoreapp3.1\Reflection.App.runtimeconfig.json
+E:\Development\GitHub\reflection-csharp\Reflection.App\Reflection.App\bin\Debug\netcoreapp3.1\Reflection.App.runtimeconfig.dev.json
+E:\Development\GitHub\reflection-csharp\Reflection.App\Reflection.App\bin\Debug\netcoreapp3.1\Reflection.App.dll
+E:\Development\GitHub\reflection-csharp\Reflection.App\Reflection.App\bin\Debug\netcoreapp3.1\Reflection.App.pdb
+E:\Development\GitHub\reflection-csharp\Reflection.App\Reflection.App\obj\Debug\netcoreapp3.1\Reflection.App.csprojAssemblyReference.cache
+E:\Development\GitHub\reflection-csharp\Reflection.App\Reflection.App\obj\Debug\netcoreapp3.1\Reflection.App.AssemblyInfoInputs.cache
+E:\Development\GitHub\reflection-csharp\Reflection.App\Reflection.App\obj\Debug\netcoreapp3.1\Reflection.App.AssemblyInfo.cs
+E:\Development\GitHub\reflection-csharp\Reflection.App\Reflection.App\obj\Debug\netcoreapp3.1\Reflection.App.csproj.CoreCompileInputs.cache
+E:\Development\GitHub\reflection-csharp\Reflection.App\Reflection.App\obj\Debug\netcoreapp3.1\Reflection.App.dll
+E:\Development\GitHub\reflection-csharp\Reflection.App\Reflection.App\obj\Debug\netcoreapp3.1\Reflection.App.pdb
+E:\Development\GitHub\reflection-csharp\Reflection.App\Reflection.App\obj\Debug\netcoreapp3.1\Reflection.App.genruntimeconfig.cache
