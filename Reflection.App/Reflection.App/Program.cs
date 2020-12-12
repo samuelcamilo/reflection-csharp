@@ -1,5 +1,5 @@
-﻿using Reflection.App._1___GetTypes;
-using Reflection.App.Models;
+﻿using Reflection.App.Models;
+using Reflection.App.Services;
 using System;
 
 namespace Reflection.App
@@ -8,7 +8,7 @@ namespace Reflection.App
     {
         static void Main(string[] args)
         {
-            GetTypesExample _example = new GetTypesExample();
+            GetTypesService _example = new GetTypesService();
             People _people = new People();
             
             Console.WriteLine("--- Capturando assembly ---");

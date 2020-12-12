@@ -5,11 +5,11 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 
-namespace Reflection.App._1___GetTypes
+namespace Reflection.App.Services
 {
-    public class GetTypesExample : IGetTypesExample<People>
+    public class GetTypesService : IGetTypesService<People>
     {
-        public GetTypesExample() { }
+        public GetTypesService() { }
 
         public Assembly GetAssemby(object obj)
             => obj.GetType().Assembly;
@@ -24,6 +24,6 @@ namespace Reflection.App._1___GetTypes
             => typeof(People).Assembly.GetTypes().Where(x => x.Name == "GetTypesExample").Count() > 0 ? true : false;
 
         public Type[] GetClassWithGenericInteface(object obj)
-            => obj.GetType().Assembly.GetTypes().Where(x => x.GetInterfaces().Any(x => x.IsGenericType && x.GetGenericTypeDefinition() == typeof(IGetTypesExample<>))).ToArray();
+            => obj.GetType().Assembly.GetTypes().Where(x => x.GetInterfaces().Any(x => x.IsGenericType && x.GetGenericTypeDefinition() == typeof(IGetTypesService<>))).ToArray();
     }
 }
